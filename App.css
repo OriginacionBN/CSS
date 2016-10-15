@@ -136,7 +136,7 @@ body{
     color:#094FA4;
     margin:20px;
     position: relative; 
-    background-image:linear-gradient(
+/*     background-image:linear-gradient(
         45deg,
         #C1EBFF, #C1EBFF 20px,
         #82D8FC 20px,#82D8FC 40px,
@@ -144,7 +144,7 @@ body{
         #01B5FA 60px, #01B5FA 80px,
         #0183DB 80px, #0183DB 100px,
         #014EA7 100px, #014EA7 120px,
-        white 120px,white 140px);
+        white 120px,white 140px); */
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
